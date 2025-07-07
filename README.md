@@ -5,7 +5,7 @@
 
 ## 🔧 My Skills
 - **Languages**: 
-  - TypeScript (React)
+  - JavaScript (React + TypeScript)
   - PHP (Symfony)
   - SQL (MySQL)
 - **Tools**: 
